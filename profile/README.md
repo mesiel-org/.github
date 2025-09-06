@@ -5,7 +5,7 @@
 <h1 align="center">Mesiel</h1>
 
 <p align="center">
-    <strong>Mesiel</strong> is a collection of free and open-source software, libraries, and tools — built to be <strong>fast, secure, and versatile</strong>.
+  <strong>Mesiel</strong> is a community-driven project dedicated to creating free and open-source programs, libraries, and tools that are fast, reliable, and accessible.
 </p>
 
 <p align="center">
@@ -17,7 +17,5 @@
 
 <p align="center">
   <a href="https://github.com/mesiel-org">GitHub</a> •
-  <a href="https://mesiel-org.github.io">Website</a> •
-  <a href="https://twitter.com/mesiel-project">Twitter</a> •
-  <a href="https://t.me/mesiel">Telegram</a>
+  <a href="https://mesiel-org.github.io">Website</a>
 </p>
